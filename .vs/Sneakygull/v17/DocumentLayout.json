@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\assets\\scripts\\movement\\playercompletemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\playercompletemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\assets\\scripts\\timer\\timerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timer\\timerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|c:\\users\\louis\\documents\\games\\sneaky gull\\sneakygull\\assets\\scripts\\movement\\poopprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\poopprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\assets\\scripts\\functions\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\functions\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\assets\\scripts\\functions\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\functions\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\assets\\scripts\\movement\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4392A-F3E2-4A22-C82F-975D3819DF90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Editor\\ProjectWideActions\\ProjectWideActionsAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Editor\\ProjectWideActions\\ProjectWideActionsAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Timer\\Timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Timer\\Timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Functions\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Functions\\Damageable.cs",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Functions\\Damageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Functions\\Damageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T20:41:03.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Functions\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Functions\\GameManager.cs",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Functions\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Functions\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T19:50:02.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-04-23T13:05:04.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerCompleteMovement.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Movement\\PlayerCompleteMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\PlayerCompleteMovement.cs",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Movement\\PlayerCompleteMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement\\PlayerCompleteMovement.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAqwCEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:17:34.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimerScript.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Timer\\TimerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Timer\\TimerScript.cs",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Timer\\TimerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Timer\\TimerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T16:03:27.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoopProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Movement\\PoopProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\PoopProjectile.cs",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Movement\\PoopProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement\\PoopProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T20:24:41.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T03:32:37.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Movement\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Movement\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement\\PlayerController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:31:30.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectWideActionsAsset.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Editor\\ProjectWideActions\\ProjectWideActionsAsset.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Editor\\ProjectWideActions\\ProjectWideActionsAsset.cs",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Editor\\ProjectWideActions\\ProjectWideActionsAsset.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Editor\\ProjectWideActions\\ProjectWideActionsAsset.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAIwMkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:50:14.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5\\InputSystem\\Plugins\\PlayerInput\\PlayerInput.cs",
+              "ViewState": "AgIAANQHAAAAAAAAAAASwGcEAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:57:54.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Timer\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Timer\\Timer.cs",
+              "ToolTip": "C:\\Users\\louis\\Documents\\GAMES\\Sneaky gull\\Sneakygull\\Assets\\Scripts\\Timer\\Timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Timer\\Timer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T16:02:54.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
